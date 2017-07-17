@@ -1,0 +1,14 @@
+Step 1:
+Show how the signal data is sufficient to predict between classes
+	-t_SNE
+	-Dice coefficient
+	-autoencoder
+	Figures: Water/Fat phase difference, t-sne, autoencoder correlations, correlation matrix
+
+Step 2:
+Show how the signal data can acheive similar or better classification rates
+	Figures: confusion matrix for both the peak data/ff/r2*, ROC curves
+
+Step 3:
+	Show overlays of classification overlays
+	
